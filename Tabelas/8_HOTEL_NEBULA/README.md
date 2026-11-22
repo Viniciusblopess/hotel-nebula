@@ -52,9 +52,9 @@ O que deve ser feito:
 
 Modelagem conceitual em [modelo_conceitual.md](modelo_conceitual.md), com diagrama ER, entidades, cardinalidades e regras de negócio. O [modelo_logico.md](modelo_logico.md) detalha atributos, tipos, PKs e FKs das nove tabelas relacionais.
 
-Diagrama visual em [modelo_ER.svg](modelo_ER.svg):
+Diagrama visual em [modelo_ER.png](modelo_ER.png):
 
-![Diagrama ER visual do Hotel Nebula](modelo_ER.svg)
+![Diagrama ER visual do Hotel Nebula](modelo_ER.png)
 
 ## Parte 2: Montagem do Núcleo
 

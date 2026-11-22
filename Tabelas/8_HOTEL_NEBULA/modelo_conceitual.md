@@ -6,7 +6,7 @@ O modelo cobre o ciclo da hospedagem: cadastro do hóspede e do quarto, reserva,
 
 ## Diagrama visual
 
-![Diagrama ER do Hotel Nebula](modelo_ER.svg)
+![Diagrama ER do Hotel Nebula](modelo_ER.png)
 
 ## Diagrama Entidade-Relacionamento
 
